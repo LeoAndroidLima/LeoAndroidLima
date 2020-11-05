@@ -50,6 +50,6 @@
 <img align="center" alt="LeoAndroid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAndroidLima&theme=dark&layout=compact"/> 
 </details>
 
-[website]: https://leoandroidlima.github.io/LeoAndroidLima/
+[website]: https://leoandroidlima.github.io/LeoAndroidLimaCurriculo/
 [instagram]: https://www.instagram.com/leo_limab/
 [linkedin]: https://www.linkedin.com/in/leonardo-lima-6a1250169/
