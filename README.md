@@ -4,7 +4,7 @@
 
 - 🌱 Disposto a aprender tudo que tiver🤣
 - 👯 Procurando colaborar com outros criadores de conteúdo
-- 🥅 Objetivos de 2021: Aprender Swift & Objective-C
+- 🥅 Objetivos de 2021: Referência no desenvolvimento Front-End em meu pais (Brasil)
 - ⚡ Curiosidade: Amo praticar Esportes
 
 
