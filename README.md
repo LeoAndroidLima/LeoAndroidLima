@@ -9,10 +9,9 @@
 
 ### Follow Me:
 
-<a href="https://scratch.mit.edu/users/ArsenTech/" target="_blank"><img src="https://img.shields.io/badge/-leonardoleo24-black?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://www.reddit.com/user/ArsenTech" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="https://codepen.io/ArsenJS" target="_blank"><img src="https://img.shields.io/badge/-ArsenJS-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
-<a href="https://www.deviantart.com/arsen2005" target="_blank"><img src="https://img.shields.io/badge/-Arsen2005-222222?style=for-the-badge&logo=deviantart&logoColor=05cc46"></a>
+<a href="https://www.behance.net/leonardoleo24" target="_blank"><img src="https://img.shields.io/badge/-leonardoleo24-black?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leonardo-lima-braga/" target="_blank"><img src="https://img.shields.io/badge/-leonardo-lima-braga-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="http://www.tivityelit.com/" target="_blank"><img src="https://img.shields.io/badge/-website-red?style=for-the-badge&logo=html=black"></a>
 
 
 ### Language And Tools:
