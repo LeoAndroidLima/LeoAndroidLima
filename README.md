@@ -53,3 +53,11 @@
 [website]: https://leoandroidlima.github.io/LeoAndroidLimaCurriculo/
 [instagram]: https://www.instagram.com/leo_limab/
 [linkedin]: https://www.linkedin.com/in/leonardo-lima-6a1250169/
+
+
+![snake gif](https://github.com/ArsenTech/ArsenTech/blob/output/github-contribution-grid-snake.svg)
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ArsenTech/count.svg" alt="ArsenTech Visitor Count" />
+</p>
