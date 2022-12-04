@@ -10,7 +10,7 @@
 ### Follow Me:
 
 <a href="https://www.behance.net/leonardoleo24" target="_blank"><img src="https://img.shields.io/badge/-leonardoleo24-black?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/leonardo-lima-braga/" target="_blank"><img src="https://img.shields.io/badge/-leonardo-lima-braga-0e76a8?style=for-the-badge&logo=html&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leonardo-lima-braga/" target="_blank"><img src="https://img.shields.io/badge/-leonardo-lima-braga-#0e76a8?style=for-the-badge&logo=html&logoColor=white"></a>
 <a href="http://www.tivityelit.com/" target="_blank"><img src="https://img.shields.io/badge/-website-red?style=for-the-badge&logo=html=black"></a>
 
 
